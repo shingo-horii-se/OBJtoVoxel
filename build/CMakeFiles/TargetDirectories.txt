@@ -1,0 +1,3 @@
+C:/temp/OBJtoVoxel/build/CMakeFiles/OBJtoVoxel.dir
+C:/temp/OBJtoVoxel/build/CMakeFiles/ALL_BUILD.dir
+C:/temp/OBJtoVoxel/build/CMakeFiles/ZERO_CHECK.dir
